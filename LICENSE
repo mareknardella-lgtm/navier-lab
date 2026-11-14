@@ -1,0 +1,24 @@
+LICENZA PROPRIETARIA — SOLO UTILIZZO ONLINE VIA BROWSER
+PROPRIETARY LICENSE — WEB BROWSER STREAMING USE ONLY
+
+Copyright (c) 2026 Marek Nardella. Tutti i diritti riservati / All rights reserved.
+
+1. CONCESSIONE LIMITATA D'USO (SOLO BROWSER)
+Il presente software ("NAVIER–STOKES LAB 2D / SUPERSONICO / 3D", inclusi il codice sorgente, i solutori numerici Euleriani 2D/3D, gli shader WebGL2, l'interfaccia grafica e la documentazione) è di proprietà esclusiva di Marek Nardella ed è protetto dalle leggi sul diritto d'autore e sulla proprietà intellettuale.
+È concesso esclusivamente il diritto di visualizzare e interagire con il software in tempo reale all'interno di un browser web standard collegato all'istanza ufficiale autorizzata dall'autore (https://mareknardella-lgtm.github.io/navier-lab/).
+
+2. DIVIETO DI INSTALLAZIONE, COPIA E RIDISTRIBUZIONE
+È severamente vietato:
+(a) Scaricare, installare localmente, eseguire offline (protocollo file:// o ambienti locali non autorizzati), clonare o incapsulare il software in applicazioni desktop, mobile o PWA;
+(b) Copiare, riprodurre, distribuire, pubblicare, ospitare su server/domini terzi o concedere in sublicenza il software o parti di esso;
+(c) Utilizzare il software per scopi commerciali, didattici istituzionali o aziendali senza una preventiva licenza scritta rilasciata dal titolare dei diritti.
+
+3. DIVIETO DI REVERSE ENGINEERING
+È severamente vietato decodificare, decompilare, disassemblare, deoffuscare, sottoporre a reverse engineering, estrarre gli algoritmi numerici o gli shader, o tentare di aggirare le misure tecnologiche di protezione e di controllo del dominio integrate nel software.
+
+---
+
+ENGLISH SUMMARY:
+This software is proprietary and confidential. All rights reserved by Marek Nardella.
+- Permitted Use: Interactive execution strictly online within a standard web browser via the official hosted URL.
+- Prohibited Use: Local installation, offline execution, downloading, copying, redistribution, self-hosting, commercial/institutional use without a license, and any form of reverse engineering, decompilation, or deobfuscation are strictly prohibited.
